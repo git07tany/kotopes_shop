@@ -1,0 +1,12 @@
+h1 {
+    color: red;
+    background-color: blueviolet;
+}
+
+h2{
+    color: aquamarine;
+}
+
+.block-3 p, h5 {
+    color: rgb(41, 41, 202);
+}
